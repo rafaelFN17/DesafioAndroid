@@ -13,7 +13,6 @@ public class QuadradoActivity extends AppCompatActivity {
 
     private EditText valorInserido;
     private TextView Resultado;
-    private double ase;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,6 +47,8 @@ public class QuadradoActivity extends AppCompatActivity {
             esconderTeclado(view);
         }
     }
+
+    //Metodos auxiliares
     public void esconderTeclado(View view){
         InputMethodManager inputManager = (InputMethodManager) getSystemService(this.INPUT_METHOD_SERVICE);
         inputManager.hideSoftInputFromWindow(view.getWindowToken(), 0);
