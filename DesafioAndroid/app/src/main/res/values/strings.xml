@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Desafio Android</string>
+    <string name="textViewMenu">Menu</string>
+    <string name="tabuada">Tabuada</string>
+    <string name="Quadrado">Quadrado e Cubo</string>
+    <string name="distancia">Distância</string>
+    <string name="calculadorTabuada">Calculador de Tabuada</string>
+    <string name="txvResultado">Resultado para _:</string>
+    <string name="CalculadorQuadradoCubo">"Calculador de Quadrado e Cubo "</string>
+    <string name="Numero">Numero:</string>
+    <string name="numeroInserido">10</string>
+    <string name="calcular">Calcular</string>
+</resources>
