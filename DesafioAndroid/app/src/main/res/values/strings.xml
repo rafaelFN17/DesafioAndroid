@@ -10,4 +10,13 @@
     <string name="Numero">Numero:</string>
     <string name="numeroInserido">10</string>
     <string name="calcular">Calcular</string>
+    <string name="CalculadorDistancia">Calculador da Distância Entre dois Pontos</string>
+    <string name="CoordenadasPontoA">Coordenadas do Ponto A:</string>
+    <string name="coordenadaX">X</string>
+    <string name="CoordenadaX">X:</string>
+    <string name="hintCoordenada">5.1</string>
+    <string name="CoordenadaY">Y:</string>
+    <string name="CoordenadasPontoB">Coordenadas do Ponto B:</string>
+    <string name="CalcularDistancia">Calcular Distância</string>
+    <string name="teste">"Distância do ponto A ao B: "</string>
 </resources>
